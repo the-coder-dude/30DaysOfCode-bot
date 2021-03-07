@@ -1,0 +1,27 @@
+{
+  "name": "30daysofcode-bot",
+  "version": "1.0.0",
+  "description": "twitter-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-coder-dude/30DaysOfCode-bot.git"
+  },
+  "author": "Prateek Pardeshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-coder-dude/30DaysOfCode-bot/issues"
+  },
+  "homepage": "https://github.com/the-coder-dude/30DaysOfCode-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
